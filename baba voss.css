@@ -1,0 +1,20 @@
+h1 {color:red;
+    text-align:center;}
+
+p {color:red; 
+    font-size:30px; 
+    font-family:tahoma;}
+
+a {color:rgb(14, 10, 3)}
+
+img {margin-top: 100px;
+height:300px;}
+
+#color {background-color:black;}
+
+#boss {position:absolute;
+    width:100vw;
+    background-color: orangered;
+    font-size:120% ;}
+
+#names {background-color: orangered;} 
